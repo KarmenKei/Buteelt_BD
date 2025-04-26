@@ -1,0 +1,3 @@
+japan::tokyo
+ireland::dublin
+russia::moscow
